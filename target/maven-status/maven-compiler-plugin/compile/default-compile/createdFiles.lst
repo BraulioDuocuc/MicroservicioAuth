@@ -1,0 +1,10 @@
+fullstack2da\auth\dto\LoginRequest.class
+fullstack2da\auth\model\User.class
+fullstack2da\auth\service\JwtService.class
+fullstack2da\auth\dto\AuthResponse.class
+fullstack2da\auth\service\UserService.class
+fullstack2da\auth\dto\RegisterRequest.class
+fullstack2da\auth\repository\UserRepository.class
+fullstack2da\auth\AuthServiceApplication.class
+fullstack2da\auth\controller\AuthController.class
+fullstack2da\auth\dto\UserDTO.class

@@ -1,0 +1,10 @@
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\AuthServiceApplication.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\controller\AuthController.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\dto\AuthResponse.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\dto\LoginRequest.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\dto\RegisterRequest.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\dto\UserDTO.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\model\User.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\repository\UserRepository.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\service\JwtService.java
+C:\Users\braulio\Desktop\Trabajo fullstack\Microservice_Auth_Fullstack2da-master\src\main\java\fullstack2da\auth\service\UserService.java

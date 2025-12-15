@@ -1,0 +1,11 @@
+target/
+*.log
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+.DS_Store
+.env
+.env.*
+application-secrets.properties
